@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Paayal 👋
 
-<!--
-**paxyz-4/paxyz-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Undergraduate • Full-Stack Developer • Problem Solver
 
-Here are some ideas to get you started:
+I build clean, scalable, and user-focused applications with a strong focus on functionality, performance, and modern UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech Undergraduate passionate about software development
+* 💻 Full-stack developer focused on building real-world applications
+* ⚡ Interested in Web Development, System Design, Cloud, and AI/ML
+* 🛠️ Love turning ideas into products that actually solve problems
+* 🌱 Currently improving my backend architecture and deployment skills
+* 📌 Believer in consistency, clean code, and continuous learning
+
+---
+
+
+## ✨ Personal Philosophy
+
+> Build things that matter.
+> Stay curious.
+> Keep shipping.
+
+---
+
+```js
+const paayal = {
+  code: ["JavaScript", "Python", "C++"],
+  technologies: {
+    frontend: ["React", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "MySQL"]
+  },
+  currentFocus: "Building impactful full-stack applications"
+};
+```
